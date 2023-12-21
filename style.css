@@ -338,7 +338,7 @@ body { margin:20px; background:hsl(70, 31%, 85%); text-align:center; }
   .birthdayCard:hover .happy {
     visibility:hidden; 
   }
-  footer{
+  /* footer{
     background-color: rgba(210, 211, 128, 0.199);
     color: white;
     font-weight: normal;
@@ -348,3 +348,4 @@ body { margin:20px; background:hsl(70, 31%, 85%); text-align:center; }
     color: black;
     padding: 1px;
   }
+  */
